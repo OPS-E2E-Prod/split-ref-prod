@@ -1,5 +1,6 @@
 - name: welcome
   href: index.md
+  universal_conceptual_toc: "/split-repo/conceptual/toc.json"
 - name: ref1
   href: ref1/index.md
 - name: test_link_to_con
