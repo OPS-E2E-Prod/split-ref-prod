@@ -2,8 +2,8 @@
   "docsets_to_publish": [
     {
       "docset_name": "split-ref-prod",
-      "build_source_folder": "reference",
-      "build_output_subfolder": "split-ref-prod",
+      "build_source_folder": "split",
+      "build_output_subfolder": "split-prod",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
