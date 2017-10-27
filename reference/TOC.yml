@@ -3,4 +3,4 @@
 - name: ref1
   href: ref1/index.md
   - name: test_link_to_con
-    href: ref1/test_link_to_con.yml
+    href: ref1/test_link_to_con
