@@ -12,7 +12,7 @@ items:
   nameWithType: Microsoft.SqlServer.Server
   fullName: Microsoft.SqlServer.Server
   type: Namespace
-  summary: "[content1](content1.md)"
+  summary: "[content3](content3.md)"
   assemblies:
   - System.Data.SqlClient
 references:
