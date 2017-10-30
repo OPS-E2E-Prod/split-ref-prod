@@ -1,7 +1,7 @@
 - name: welcome
-  href: index.md
+  href: ../index.md
   universal_conceptual_toc: "/split-prod/conceptual/toc.json"
 - name: reference
-  href: reference/index.md
+  href: ../index.md
 - name: test_link_to_con
-  href: reference/test_link_to_con.yml
+  href: ../test_link_to_con.yml
