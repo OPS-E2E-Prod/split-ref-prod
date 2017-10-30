@@ -1,7 +1,7 @@
-- name: welcome
+- name: ReferenceIndex
   href: ../index.md
   universal_conceptual_toc: "/split-prod/conceptual/toc.json"
-- name: reference
-  href: ../index.md
+- name: Microsoft.SqlServer.Server.SqlMetaData
+  href: ../Microsoft.SqlServer.Server.SqlMetaData.yml
 - name: test_link_to_con
   href: ../test_link_to_con.yml
