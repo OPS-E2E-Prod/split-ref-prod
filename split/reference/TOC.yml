@@ -3,5 +3,13 @@
   universal_conceptual_toc: "/split-prod/conceptual/toc.json"
 - name: Microsoft.SqlServer.Server.SqlMetaData
   href: ../Microsoft.SqlServer.Server.SqlMetaData.yml
+- name: ref1
+  href: ../ref1.yml
+- name: ref2
+  href: ../ref2.yml
+- name: ref3
+  href: ../ref3.yml
+- name: ref4
+  href: ../ref4.yml
 - name: test_link_to_con
   href: ../test_link_to_con.yml
