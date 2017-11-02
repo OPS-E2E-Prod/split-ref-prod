@@ -13,3 +13,5 @@
   href: ../ref3.yml
 - name: test_link_to_con
   href: ../test_link_to_con.yml
+- name: updateTest
+  href: ../updateTest.md
