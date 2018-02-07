@@ -9,7 +9,5 @@
   href: ../ref1.yml
 - name: ref2
   href: ../ref2.yml
-- name: test_link_to_con
-  href: ../test_link_to_con.yml
 - name: updateTestRef
   href: ../updateTestRef.md
