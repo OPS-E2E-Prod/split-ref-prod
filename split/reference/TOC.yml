@@ -11,3 +11,5 @@
   href: ../ref2.yml
 - name: updateTestRef
   href: ../updateTestRef.md
+- name: content
+  href: ../content.md
